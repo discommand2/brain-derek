@@ -4,15 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
-    "content-hash": "2b48469bf6a3495d69f5563ef7fb6331",
-    "packages": [],
-    "packages-dev": [],
-    "aliases": [],
-    "minimum-stability": "dev",
-    "stability-flags": [],
-=======
-    "content-hash": "29e9f03eea1d6d8dbbc2031318428e93",
+    "content-hash": "d37b0a235c4dfd957338ffec014255da",
     "packages": [
         {
             "name": "discommand2/core",
@@ -211,12 +203,11 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": {
         "discommand2/core": 20
     },
->>>>>>> upstream/main
-    "prefer-stable": true,
+    "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": ">=8.2"
